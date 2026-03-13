@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2026-03-13` — Cleaned up unused imports
 - `2026-03-06` — Stabilised core logic
 - `2026-03-03` — Added defensive checks
 - `2026-02-23` — Fixed minor inconsistency in logic
