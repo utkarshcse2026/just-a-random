@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2026-06-05` — Enhanced error messaging
 - `2026-05-24` — General maintenance pass
 - `2026-05-22` — Refactored module for better readability
 - `2026-04-29` — Improved documentation and comments
