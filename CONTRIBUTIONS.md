@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2026-06-25` — Added missing null checks
 - `2026-06-22` — Simplified conditional branches
 - `2026-06-19` — Minor performance improvements
 - `2026-05-27` — Simplified conditional branches
